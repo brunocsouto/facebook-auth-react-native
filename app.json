@@ -1,0 +1,17 @@
+{
+  "name": "facebook-auth",
+  "displayName": "facebook-auth",
+  "expo": {
+    "name": "facebook-auth",
+    "slug": "facebook-auth",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
